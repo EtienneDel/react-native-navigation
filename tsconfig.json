@@ -1,5 +1,4 @@
 {
-  "extends": "./tsconfig-strict.json",
   "compilerOptions": {
     "outDir": "./lib/dist",
     "allowJs": false,
