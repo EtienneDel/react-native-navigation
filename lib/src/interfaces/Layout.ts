@@ -24,6 +24,8 @@ export interface LayoutStackChildren {
    * Set component
    */
   component?: LayoutComponent;
+
+  bottomTabs?: LayoutBottomTabs;
   /**
    * Set the external component
    */
